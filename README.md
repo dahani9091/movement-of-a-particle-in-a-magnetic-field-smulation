@@ -1,1 +1,1 @@
-# movement-of-a-particle-in-a-magnetic-field-smulation
+# movement of a particle in a magnetic field smulation
